@@ -1,4 +1,4 @@
-# Getting Started
+# Not Getting Started
 Setting up GitHub and checking your knowledge of Javascript
 
 1. Set up a GitHub account if you don't already have one
